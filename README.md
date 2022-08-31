@@ -11,11 +11,11 @@ O usuário então indica em qual coluna está a carta que escolheu previamente.
 As cartas serão juntadas ao monte (função reorder) e distribuídas novamente em 3 colunas.
 E assim sucessivamente.
 
-Após 3 repetições. O algoritmo seleciona 3 cartas. ("QUASE LÁ! AINDA NÃO CONSEGUI MENTALIZAR A CARTA")
+Após 3 repetições. O algoritmo seleciona 3 cartas. ("QUASE LÁ! AINDA NÃO CONSEGUI MENTALIZAR A CARTA 😂")
 
 O algoritmo por fim releva a carta que foi escolhida pelo usuário.
 
-
+*Confiram o Fluxograma na homepage o projeto*
 
 
 
